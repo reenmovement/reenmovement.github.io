@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "nueva";
+    src: url(../Font/Taviraj-ExtraLightItalic.ttf)
+}
+*{
+    text-align: justify;
+    font-family: nueva;
+}
+.width{
+    width: 150px;
+    height: 150px;
+}
+.color{
+    background-color: #208324;
+}
+.bg-light{
+    --bs-bg-opacity: 0 !important;
+}
+.colo{
+    background-color: #f4eb99;
+}
+.cf{
+    color: #3b5998;
+    background-color: #ffff;
+    border-radius: 50%;
+}
+.ci{
+    color:  #00acee;
+    background-color: #ffff;
+    border-radius: 50%;
+}
+.cy{
+    color:  #c4302b;
+    background-color: #ffff;
+    border-radius: 50%;
+}
+footer h2 p{
+    font-size: 50%;
+    padding-bottom: 1%;
+}
+.cn{
+    color: #ffff !important;
+    font-size: 123%;
+    padding: 1%;
+}
+.cn:hover{
+    background-color: #c3c563;
+}
+.cfo{
+    color: #ffff
+}
+.wp{
+    color: #00bb2d;
+    background-color: #ffff;
+    border-radius: 50%;
+}
+.cw{
+    color: #ffff;
+    font-size: 55%;
+}
+.cm{
+    width: 10%;
+    height: 10%;
+    background-color: #ffff;
+}
+.cma{
+    color: #DD4B3E;
+}
+.t{
+    font-size: 154%;
+}
+.ma{
+    margin-top: 4rem;
+}
+.wi{
+    width: 100%;
+}
+.display{
+    display: block;
+    margin: 0 auto;
+}
