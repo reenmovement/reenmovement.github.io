@@ -73,6 +73,7 @@ footer h2 p{
 }
 .wi{
     width: 100%;
+    border-radius: 5%;
 }
 .display{
     display: block;
